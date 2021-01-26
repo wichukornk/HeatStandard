@@ -1,13 +1,13 @@
-,FuelType,AgeCat,LoadCat,Threshold,Population
-0,Gas,LessThan10Year,Full load,75,8
-1,Gas,LessThan10Year,Part load,70,51
-2,Gas,MoreThan10Year,Full load,70,4
-3,Gas,MoreThan10Year,Part load,65,36
-4,Liquid,LessThan10Year,Full load,75,2
-5,Liquid,LessThan10Year,Part load,70,17
-6,Liquid,MoreThan10Year,Full load,70,4
-7,Liquid,MoreThan10Year,Part load,65,35
-8,Solid,LessThan10Year,Full load,65,25
-9,Solid,LessThan10Year,Part load,60,57
-10,Solid,MoreThan10Year,Full load,60,32
-11,Solid,MoreThan10Year,Part load,55,72
+FuelType,AgeCat,LoadCat,Threshold,Population
+Gas,LessThan10Year,Full load,75,8
+Gas,LessThan10Year,Part load,70,51
+Gas,MoreThan10Year,Full load,70,4
+Gas,MoreThan10Year,Part load,65,36
+Liquid,LessThan10Year,Full load,75,2
+Liquid,LessThan10Year,Part load,70,17
+Liquid,MoreThan10Year,Full load,70,4
+Liquid,MoreThan10Year,Part load,65,35
+Solid,LessThan10Year,Full load,65,25
+Solid,LessThan10Year,Part load,60,57
+Solid,MoreThan10Year,Full load,60,32
+Solid,MoreThan10Year,Part load,55,72
